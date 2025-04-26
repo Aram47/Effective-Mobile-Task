@@ -1,0 +1,13 @@
+# dist
+api-gateway/dist
+appeal-service/dist
+
+# node_modules
+api-gateway/node_modules
+appeal-service/node_modules
+
+# env
+api-gateway/.env.dev
+api-gateway/.env.prod
+appeal-service/.env.dev
+appeal-service/.env.prod
