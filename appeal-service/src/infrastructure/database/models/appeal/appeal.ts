@@ -1,5 +1,5 @@
 import { DataTypes, Model, Sequelize } from 'sequelize';
-import { AppealStatus } from '../../../domain/entities/appeal.js';
+import { AppealStatus } from '../../../../domain/appeal/entities/appeal.js';
 
 export class AppealModel extends Model {
   public id!: string;

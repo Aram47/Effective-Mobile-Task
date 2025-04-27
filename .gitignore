@@ -11,3 +11,4 @@ api-gateway/.env.dev
 api-gateway/.env.prod
 appeal-service/.env.dev
 appeal-service/.env.prod
+appeal-service/.env
